@@ -12,7 +12,7 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/boltdb/bolt"
+	"github.com/w0wik/bolt"
 )
 
 // Ensure that a bucket that gets a non-existent key returns nil.
